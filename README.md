@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WellyT,
-- 👀 I’m interested in learn funny technologies,
+- 👀 I’m interested in learn fun technologies,
 - 🌱 I’m currently learning JavaScript/HTML/CSS but my greatest interest is Java and spring, it look's like a cool language, and i will deep my learning soon,
-- 💞️ I’m looking to collaborate on the growing up of my knowledge and, if i start working in any place, i'm looking for the general grow up,
+- 💞️ I’m looking to collaborate on the world of technologies and being the greates software enginer of my house,
 - 📫 How to reach me: Instagram = "/wellysont", Facebook = "/wellyson.thomas", linkedin = "/in/wellyson-thomas-91686b161/";
 
 <!---
